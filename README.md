@@ -1,0 +1,2 @@
+# POIMap
+Android projekt POIMap
